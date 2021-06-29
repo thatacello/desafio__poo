@@ -1,0 +1,13 @@
+C:\Users\tsci\My Private Documents\Estudos\GFT\Exercicio POO\bin\Debug\netcoreapp3.1\Exercicio POO.exe
+C:\Users\tsci\My Private Documents\Estudos\GFT\Exercicio POO\bin\Debug\netcoreapp3.1\Exercicio POO.deps.json
+C:\Users\tsci\My Private Documents\Estudos\GFT\Exercicio POO\bin\Debug\netcoreapp3.1\Exercicio POO.runtimeconfig.json
+C:\Users\tsci\My Private Documents\Estudos\GFT\Exercicio POO\bin\Debug\netcoreapp3.1\Exercicio POO.runtimeconfig.dev.json
+C:\Users\tsci\My Private Documents\Estudos\GFT\Exercicio POO\bin\Debug\netcoreapp3.1\Exercicio POO.dll
+C:\Users\tsci\My Private Documents\Estudos\GFT\Exercicio POO\bin\Debug\netcoreapp3.1\Exercicio POO.pdb
+C:\Users\tsci\My Private Documents\Estudos\GFT\Exercicio POO\obj\Debug\netcoreapp3.1\Exercicio POO.csprojAssemblyReference.cache
+C:\Users\tsci\My Private Documents\Estudos\GFT\Exercicio POO\obj\Debug\netcoreapp3.1\Exercicio POO.AssemblyInfoInputs.cache
+C:\Users\tsci\My Private Documents\Estudos\GFT\Exercicio POO\obj\Debug\netcoreapp3.1\Exercicio POO.AssemblyInfo.cs
+C:\Users\tsci\My Private Documents\Estudos\GFT\Exercicio POO\obj\Debug\netcoreapp3.1\Exercicio POO.csproj.CoreCompileInputs.cache
+C:\Users\tsci\My Private Documents\Estudos\GFT\Exercicio POO\obj\Debug\netcoreapp3.1\Exercicio POO.dll
+C:\Users\tsci\My Private Documents\Estudos\GFT\Exercicio POO\obj\Debug\netcoreapp3.1\Exercicio POO.pdb
+C:\Users\tsci\My Private Documents\Estudos\GFT\Exercicio POO\obj\Debug\netcoreapp3.1\Exercicio POO.genruntimeconfig.cache
